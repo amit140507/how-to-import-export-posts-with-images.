@@ -1,4 +1,4 @@
-## Export
+# Export
 
 ### Step 1 
 Use WP deafult Export to export posts.
@@ -8,7 +8,9 @@ It will export posts title, content, users, categories an tags but not images.
 ### Step 2
 Now install this plugin(WP Import Export Lite by  VJInfotech) and export posts using these settings.
 
-## Import
+
+
+# Import
 
 ### Step 1
 First Import posts xml from from default import method.
