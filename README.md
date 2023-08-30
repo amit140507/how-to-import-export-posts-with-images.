@@ -7,7 +7,12 @@ Now install this plugin(WP Import Export Lite by  VJInfotech) and export posts u
 
 
 
-**Import**
-First Import posts xml from from deafult import method.
 
-Now import Images using this plugin.
+**Import**
+First Import posts xml from from default import method.
+Now download all the images from ols website and put it in one folder in path given in below image
+![image](https://github.com/amit140507/how-to-import-export-posts-with-images./assets/100019842/7cc92d64-ccfb-497f-9a7e-b0fdd0a38ee2)
+
+Now import images using this plugin(WP Import Export Lite by  VJInfotech) 
+![image](https://github.com/amit140507/how-to-import-export-posts-with-images./assets/100019842/e456a925-201d-4e0e-bda9-d6708607e531)
+
