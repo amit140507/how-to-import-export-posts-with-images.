@@ -14,7 +14,7 @@ Now install this plugin(WP Import Export Lite by  VJInfotech) and export posts u
 
 ### Step 1
 First Import posts xml from from default import method.
-Now download all the images from ols website and put it in one folder in path given.
+Now download all the images from old website and put it in one folder in path given.
 ```
 /wp-content/uploads/wp-import-export-lite/temp
 ```
